@@ -1,6 +1,7 @@
 <?php 
     if(isset($_POST["submit"]))
     {
+        //long deltrai 
         $makh=$_SESSION["makh"];
         $masp=$_SESSION["txtmahh"];
         $content=$_SESSION["comment"];
